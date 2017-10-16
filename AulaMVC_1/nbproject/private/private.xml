@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/AulaMVC_1/View/UserView.php</file>
+            <file>file:/C:/xampp/htdocs/AulaMVC_1/View/UserViewResult.php</file>
+            <file>file:/C:/xampp/htdocs/AulaMVC_1/Controller/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/AulaMVC_1/Dao/UserDAO.php</file>
+            <file>file:/C:/xampp/htdocs/AulaMVC_1/Include/UserValidate.php</file>
+            <file>file:/C:/xampp/htdocs/AulaMVC_1/Model/UserModel.php</file>
+            <file>file:/C:/xampp/htdocs/AulaMVC_1/View/UserViewErro.php</file>
+            <file>file:/C:/xampp/htdocs/AulaMVC_1/Persistence/ConnectionDB.php</file>
+        </group>
+    </open-files>
+</project-private>
